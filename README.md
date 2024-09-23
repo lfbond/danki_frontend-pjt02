@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o projeto **Danki Frontend Projeto 02**:
-
----
-
 # Danki Frontend - Projeto 02
 
 Bem-vindo ao **Projeto 02** do curso de Frontend da **Danki Code**. Este projeto é uma landing page simples e responsiva, criada como parte do aprendizado de desenvolvimento web. O objetivo é aplicar conceitos de HTML, CSS e boas práticas de design, com foco em responsividade e layout moderno.
